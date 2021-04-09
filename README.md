@@ -1,2 +1,2 @@
 # DataImporter
-Import data from CSV to Postgres Database using simple mapping
+Pull JIRA data using RestAPI into CSV and then import to Postgres Database using simple mapping
