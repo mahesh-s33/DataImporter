@@ -1,0 +1,6 @@
+#JIRA field mapping reference
+Jira ticket ID=key
+Summary=summary
+Customer Name=customfield_10512
+Severity=customfield_10281
+Customer Impact=customfield_12451
